@@ -10,6 +10,11 @@ Professional beauty services booking platform with Stripe payments and AI chatbo
 - ✉️ Email confirmations
 - 📱 Mobile-friendly
 
+## Let Mia Know 
+
+If you’d like to integrate this solution for your enterprise or personal business, let Mia know how she can help.
+
+
 ## Quick Start
 
 ### 1. Clone the repository
