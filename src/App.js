@@ -379,6 +379,10 @@ export default function App() {
         )}
       </div>
 
+      <div className="max-w-7xl mx-auto mt-4 mb-4 text-center text-gray-500 text-sm">
+            © 2025 Mia Dao. Built with React.
+          </div>
+
       {chatOpen && (
         <div className="fixed bottom-24 right-6 w-96 h-[500px] bg-white rounded-2xl shadow-2xl flex flex-col overflow-hidden z-50">
           <div className="bg-gradient-to-r from-purple-600 to-pink-600 text-white p-4 flex items-center justify-between">
@@ -428,6 +432,8 @@ export default function App() {
               </button>
             </div>
           </div>
+
+          
         </div>
       )}
 

@@ -1,4 +1,8 @@
 node_modules
+<<<<<<< HEAD
 .env
 build
 .DS_Store
+=======
+>>>>>>> 2956eaf (commit)
+server/.env

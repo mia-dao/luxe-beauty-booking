@@ -25,6 +25,7 @@ app.post('/api/create-payment-intent', async (req, res) => {
     res.json({ clientSecret: paymentIntent.client_secret });
   } catch (error) {
     res.status(500).json({ error: error.message });
+    alert("💜 I love to get paid! But this is only a demo! 💜");
   }
 });
 
